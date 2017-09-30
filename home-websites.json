@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "百度",
+        "url"  : "https://www.baidu.com",
+        "icon" : ""
+    },
+    {
+        "name" : "搜狗",
+        "url"  : "https://www.sogou.com",
+        "icon" : ""
+    }
+]
